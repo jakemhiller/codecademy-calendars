@@ -1,5 +1,5 @@
 (function () {
-    var oldUrlBase = '//ryzacinc.github.io'
+    var oldUrlBase = '//codecademy.github.io'
     var newUrlBase = '//ryzacinc.github.io';
     var newUrl = window.location.toString().replace(oldUrlBase, newUrlBase);
 
